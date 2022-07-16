@@ -1,0 +1,32 @@
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.main-form{
+    text-align: center;
+    font-size: 50px;
+}
+button{
+    cursor: pointer;
+}
+
+select,input,option{
+    font-size: 40px;
+    padding: 6px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 5px;
+}
+
+button{
+    font-size: 40px;
+    padding: 6px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: yellow;
+    color: black;
+    margin: 25px;
+    border: 1px solid;
+}

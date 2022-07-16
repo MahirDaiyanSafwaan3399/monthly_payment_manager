@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-
+import './style.css'
 import Payment from './components/Payment'
 
 
