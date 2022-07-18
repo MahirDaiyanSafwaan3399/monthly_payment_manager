@@ -18,6 +18,7 @@ function submitValues(e){
 }
 
 function Payment() {
+  
   return (
     <div className="main-form">
         <h3>Monthly payment manager</h3>
