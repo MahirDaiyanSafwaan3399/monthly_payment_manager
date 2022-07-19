@@ -2,9 +2,14 @@
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+body{
+    background-color: black;
+}
+
 .main-form{
     text-align: center;
     font-size: 50px;
+    color: white;
 }
 button{
     cursor: pointer;
@@ -19,6 +24,29 @@ select,input,option{
     color: white;
     margin: 5px;
 }
+.list-items{
+    list-style: none;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    border-radius: 5px;
+    margin: 10px;
+    /* width: 50%; */
+    padding: 10px;
+}
+
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    color: white;
+    width: 50%;
+    text-align: center;
+  }
+
 
 button{
     font-size: 40px;
